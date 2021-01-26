@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Scott McClung
  */
 
 public class Class2 {
